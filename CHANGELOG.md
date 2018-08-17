@@ -2,6 +2,8 @@
 
 ## Master (Unreleased)
 
+* Add `RSpec/ImplicitSubject` cop. ([@Darhazer][])
+
 ## 1.28.0 (2018-08-14)
 
 * Add `RSpec/ReceiveNever` cop enforcing usage of `not_to receive` instead of `never` matcher. ([@Darhazer][])
